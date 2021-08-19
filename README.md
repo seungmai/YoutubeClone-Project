@@ -18,5 +18,6 @@
 
 ![mediaquery](https://user-images.githubusercontent.com/76721552/130023167-f4acc48b-365f-4cb9-8c94-6f659d032b4b.png)
 
+- YouTube API 사용
 # 🥇 기술 스텍
 JavaScript(ES6+), React, CSS
