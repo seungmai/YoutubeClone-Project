@@ -1,4 +1,4 @@
-/// app.jsx
+// app.jsx
 
 import React, {useState, useEffect, useCallback} from 'react';
 import styles from './app.module.css';
